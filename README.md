@@ -13,18 +13,16 @@ The following **required** functionality is completed:
 - [X] Setup navigation to the Detail Screen
 - [X] Created the Detail View UI
 - [X] Add the ability to pass data to the Detail View Controller
-- [ ] Made personal finishing touches to the UI
+- [X] Made personal finishing touches to the UI
 
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+https://github.com/Jaxropix/TumblrPart2/assets/142180880/6ba0b564-6648-4afa-8c06-871e7e1225ca
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+
+
+
 
 ## Notes
 
